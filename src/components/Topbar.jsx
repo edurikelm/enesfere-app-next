@@ -1,6 +1,6 @@
 export default function Topbar() {
   return (
-    <header className="navbar flex items-center justify-between bg-base-200 border-b border-base-300 px-4">
+    <header className="navbar flex items-center justify-between bg-base-200 border-b border-base-300 px-4 w-full">
           <div className="flex items-center gap-2">
             <label
               htmlFor="my-drawer-2"

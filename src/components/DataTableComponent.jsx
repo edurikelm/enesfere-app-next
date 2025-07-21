@@ -25,19 +25,19 @@ const columns = [
   },
   {
     name: 'Asset ID',
+    selector: (row) => row['Asset ID'],
+    sortable: true,
+  },
+  {
+    name: 'Title',
     cell: (row) => (
       <Link
-        href={`/work-orders/${row['Work Order ID']}`}
+        href={`/portfolio/work-orders/${row['Work Order ID']}`}
         className="text-blue-600 underline"
       >
         {row['Title']}
       </Link>
     ),
-    sortable: true,
-  },
-  {
-    name: 'Title',
-    selector: (row) => row['Title'],
     sortable: true,
   },
   {

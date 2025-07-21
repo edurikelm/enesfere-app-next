@@ -1,0 +1,86 @@
+{
+    "Client": "",
+    "Building": "B",
+    "Floor":"",
+    "Room": "",
+    "Asset Type": "CHW Pump",
+    "Asset ID": "CHWP-1",
+    "Date Opened": "2024-05-22",
+    "Work Order ID": "64",
+    "Title": "Chilled-Water Pump PM Checks",
+    "Status": "Active",
+    "Priority": "",
+    "Energy Cost": "",
+    "Impacts": [],
+    "Owner": "",
+    "Trade": "Mechanical",
+    "Work Order Source": "PM",
+    "Outsourced": "",
+    "Date Closed": "",
+    "PM_Checklist": [
+        {
+            "Step":1,
+            "Item":"VFDs",
+            "Description":"Check variable-frequency drive for proper operation. Correct as needed. Clean housing, and tighten connections as needed. Clean or replace air filter.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":2,
+            "Item":"Pump & Electrical",
+            "Description":"Inspect pumps and associated electrical components. Clean and verify proper operation.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":3,
+            "Item":"Controls & Controlled Devices",
+            "Description":"Check control system and devices for evidence of improper operation. Clean, lubricate, adjust.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":4,
+            "Item":"Motor Contactor",
+            "Description":"Check motor contactor for pitting or other signs of damage. Clean and tighten electrical connections as needed.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":5,
+            "Item":"Drive",
+            "Description":"Check pump drive for wear or problems due to poor alignment or poor bearing seating. Lubricate and adjust, and record evidence of wear.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":6,
+            "Item":"Fluid Flow",
+            "Description":"Check for proper fluid flow. Clean, adjust, and repair as needed to restore proper flow. Clean, adjust, as needed to restore proper flow.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":7,
+            "Item":"Bearings",
+            "Description":"Assess field-serviceable bearings. Lubricate as necessary.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":8,
+            "Item":"Insulation, Isolators & Connectors",
+            "Description":"Check insulation, vibration isolators, and flexible connectors for integrity. Clean as needed. Record location of damage.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        }
+    ]
+}

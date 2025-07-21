@@ -1,0 +1,142 @@
+{
+    "Client": "-",
+    "Building": "B",
+    "Floor":"-",
+    "Room": "-",
+    "Asset Type": "FCU",
+    "Asset ID": "FCU-3",
+    "Date Opened": "2024-05-22",
+    "Work Order ID": "61",
+    "Title": "4-Pipe Fan Coil PM Checks",
+    "Status": "Active",
+    "Priority": "",
+    "Energy Cost": "",
+    "Impacts": [],
+    "Owner": "",
+    "Trade": "Mechanical",
+    "Work Order Source": "PM",
+    "Outsourced": "",
+    "Date Closed": "",
+    "PM_Checklist": [
+        {
+            "Step":1,
+            "Item":"Filter Loading",
+            "Description":"Check for particulate accumulation on filters. Clean or replace as needed to ensure proper operation.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":2,
+            "Item":"Ultraviolet Lamp",
+            "Description":"Check ultraviolet lamp. Clean and verify that it is functioning.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":3,
+            "Item":"P-trap",
+            "Description":"Check P-trap. Prime as needed to ensure proper operation.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":4,
+            "Item":"Controls & Controlled Devices",
+            "Description":"Check control system and devices for evidence of improper operation. Clean, lubricate, adjust.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":5,
+            "Item":"Fan Belts",
+            "Description":"Check fan-belt tension, check for belt wear, and check sheaves for evidence of improper alignment or evidence of wear. Correct tension and sheave alignment.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":6,
+            "Item":"Heat Exchanger",
+            "Description":"Check for damage or evidence of leaks on heat-exchanger surfaces. Clean and restore as needed to ensure acceptable condition. Find and record the location of identified leaks.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":7,
+            "Item":"Filter Fit",
+            "Description":"Check air-filter fit and housing seal integrity. Clean as needed.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":8,
+            "Item":"Control Box",
+            "Description":"Check control box for dirt, debris, and\/or loose terminations. Clean and tighten electrical connections as needed.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":9,
+            "Item":"Motor Contactor",
+            "Description":"Check motor contactor for pitting or other signs of damage. Clean and tighten electrical connections as needed.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":10,
+            "Item":"Fan Blades & Housing",
+            "Description":"Check fan blades and fan housing. Clean as needed.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":11,
+            "Item":"Panels",
+            "Description":"Check integrity of all panels on equipment. Replace fasteners as needed to ensure proper integrity and fit\/ finish of equipment.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":12,
+            "Item":"Bearings",
+            "Description":"Assess field-serviceable bearings. Lubricate as necessary.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":13,
+            "Item":"Fluid Flow & Leakage",
+            "Description":"Check for proper fluid flow. Adjust flow when outside of recommended flow range. When leaking, find and record the location of identified leaks.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":14,
+            "Item":"Biological Growth",
+            "Description":"Check drain pan, drain line, coil, and other areas of moisture accumulation for visible signs of biological growth. Clean, and verify proper operation.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":15,
+            "Item":"Heat Exchanger Fins",
+            "Description":"Check for fin damage and evidence of fouling on the heat-exchanger surfaces. Clean and restore as needed to ensure acceptable condition.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        }
+    ]
+}

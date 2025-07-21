@@ -1,0 +1,94 @@
+{
+    "Client": "",
+    "Building": "C",
+    "Floor":"",
+    "Room": "",
+    "Asset Type": "RTU",
+    "Asset ID": "RTU-2",
+    "Date Opened": "2024-05-22",
+    "Work Order ID": "65",
+    "Title": "Rooftop Unit PM Checks",
+    "Status": "Active",
+    "Priority": "",
+    "Energy Cost": "",
+    "Impacts": [],
+    "Owner": "",
+    "Trade": "Mechanical",
+    "Work Order Source": "PM",
+    "Outsourced": "",
+    "Date Closed": "",
+    "PM_Checklist": [
+        {
+            "Step":1,
+            "Item":"Fitler Loading",
+            "Description":"Check for particulate accumulation on filters. Clean or replace as needed to ensure proper operation.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":2,
+            "Item":"Ultraviolet Lamp",
+            "Description":"Check ultraviolet lamp. Clean and verify that it is functioning.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":3,
+            "Item":"P-trap",
+            "Description":"Check P-trap. Prime as needed to ensure proper operation.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":4,
+            "Item":"Biological Growth",
+            "Description":"Check drain pan, drain line, coil, and other areas of moisture accumulation for visible signs of biological growth. Clean, and verify proper operation.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":5,
+            "Item":"Control System & Controlled Devices",
+            "Description":"Check control system and devices for evidence of improper operation. Clean, lubricate, adjust.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":6,
+            "Item":"Fan Belts",
+            "Description":"Check fan-belt tension, check for belt wear, and check sheaves for evidence of improper alignment or evidence of wear. Correct tension and sheave alignment.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":7,
+            "Item":"VFD",
+            "Description":"Check variable-frequency drive for proper operation. Correct as needed. Clean housing, and tighten connections as needed. Clean or replace air filter.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":8,
+            "Item":"Indoor Heat Exchanger",
+            "Description":"Check for fin damage and evidence of fouling on the indoor refrigeration-cycle heat- exchanger surfaces. Clean and restore as needed to ensure acceptable condition.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":9,
+            "Item":"Outdoor Heat Exchanger",
+            "Description":"Check for fin damage and evidence of fouling on the outdoor refrigeration-cycle heat- exchanger surfaces Clean and restore as needed to ensure acceptable condition.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        }
+    ]
+}

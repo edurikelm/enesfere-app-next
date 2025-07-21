@@ -1,0 +1,142 @@
+{
+    "Client": "",
+    "Building": "B",
+    "Floor":"",
+    "Room": "",
+    "Asset Type": "Chiller",
+    "Asset ID": "CH-1",
+    "Date Opened": "2024-05-22",
+    "Work Order ID": "62",
+    "Title": "Air-Cooled Chiller PM Checks",
+    "Status": "Active",
+    "Priority": "",
+    "Energy Cost": "",
+    "Impacts": [],
+    "Owner": "",
+    "Trade": "Mechanical",
+    "Work Order Source": "PM",
+    "Outsourced": "",
+    "Date Closed": "",
+    "PM_Checklist": [
+        {
+            "Step":1,
+            "Item":"Water Testing",
+            "Description":"Perform chemical testing of system water. Treat as needed to ensure water chemistry and freeze protection target levels are being maintained.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":2,
+            "Item":"Controls & Controlled Devices",
+            "Description":"Check control system and devices for evidence of improper operation. Clean, lubricate, and verify proper operation.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":3,
+            "Item":"Fan Belts",
+            "Description":"Check fan-belt tension, check for belt wear, and check sheaves for evidence of improper alignment or evidence of wear. Correct tension and sheave alignment.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":4,
+            "Item":"VFDs",
+            "Description":"Check variable-frequency drive for proper operation. Correct as needed. Clean housing, and tighten connections as needed. Clean or replace air filter.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":5,
+            "Item":"Control Box",
+            "Description":"Check control box for dirt, debris, and\/or loose terminations. Clean and tighten electrical connections as needed.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":6,
+            "Item":"Motor Contactors",
+            "Description":"Check motor contactor for pitting or other signs of damage. Clean and tighten electrical connections as needed.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":7,
+            "Item":"Fan Blades & Housing",
+            "Description":"Check fan blades and fan housing. Clean as needed.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":8,
+            "Item":"Refrigerant Levels",
+            "Description":"Check refrigerant system pressures and\/or temperatures. When outside of recommended levels, find and record the cause.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":9,
+            "Item":"Open Drives",
+            "Description":"Check open drive couplings, bearings, and seals for evidence of wear or alignment problems. Lubricate and adjust, and record evidence of wear.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":10,
+            "Item":"Bearings",
+            "Description":"Assess field-serviceable bearings. Lubricate as necessary.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":11,
+            "Item":"Heat Exchanger Fins",
+            "Description":"Check for fin damage and evidence of fouling on the outdoor refrigeration-cycle heat-exchanger surfaces. Clean and restore as needed to ensure acceptable condition.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":12,
+            "Item":"Fluid Flow & Leaks",
+            "Description":"Check for proper fluid flow and for fluid leaks. Adjust flow when outside of recommended flow range. When leaking, find and record the location of identified leaks.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":13,
+            "Item":"Heat Exchange Surfaces",
+            "Description":"Check for damage or evidence of leaks on the outdoor refrigeration-cycle heat-exchanger surfaces. Check for damage or evidence of leaks on the outdoor refrigeration-cycle heat-exchanger surfaces.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":14,
+            "Item":"Head Pressure Control",
+            "Description":"Check low ambient head pressure control sequence for evidence of improper operation. Clean and adjust components or modify software\/algorithm to ensure proper operation.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":15,
+            "Item":"Compressor Oil Level",
+            "Description":"Check compressor oil level and\/or pressure on refrigerant systems having oil level and\/ or pressure measurement means. When outside of recommended levels, find and record the cause.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        }
+    ]
+}

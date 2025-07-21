@@ -1,0 +1,110 @@
+{
+    "Client": "",
+    "Building": "B",
+    "Floor":"",
+    "Room": "",
+    "Asset Type": "AHU",
+    "Asset ID": "AHU-2",
+    "Date Opened": "2024-05-22",
+    "Work Order ID": "63",
+    "Title": "Airside Economizer PM Checks",
+    "Status": "Active",
+    "Priority": "",
+    "Energy Cost": "",
+    "Impacts": [],
+    "Owner": "",
+    "Trade": "Mechanical",
+    "Work Order Source": "PM",
+    "Outsourced": "",
+    "Date Closed": "",
+    "PM_Checklist": [
+        {
+            "Step":1,
+            "Item":"Filter Loading",
+            "Description":"Check for particulate accumulation on filters. Clean or replace as needed to ensure proper operation.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":2,
+            "Item":"Alarms",
+            "Description":"For communicating economizers only, check, review, and document alarms. Reset resolved alarms",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":3,
+            "Item":"Sensors",
+            "Description":"For communicating economizers only, check condition, setting, and operation of all related sensors. Clean, lubricate, adjust.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":4,
+            "Item":"Controller & Actuators",
+            "Description":"Check condition, setting, and operation of the economizer controller and actuators. Clean, lubricate, and verify proper operation.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":5,
+            "Item":"Dampers",
+            "Description":"Check dampers for condition, setting, and operation. Clean, lubricate, and verify proper operation.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":6,
+            "Item":"Filter Fit",
+            "Description":"Check air-filter fit and housing seal integrity. Clean and verify proper fit\/ finish.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":7,
+            "Item":"Calibration Checks",
+            "Description":"For all economizers, check condition, setting, and operation of all related sensors against a trusted sensor. Clean, lubricate, adjust.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":8,
+            "Item":"Panels",
+            "Description":"Check integrity of all panels on equipment. Replace fasteners as needed to ensure proper integrity and fit\/finish of equipment.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":9,
+            "Item":"Biological Growth",
+            "Description":"Inspect areas of moisture accumulation for biological growth. If present, clean.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":10,
+            "Item":"Low-limit Stat",
+            "Description":"Check condition, setting, and operation of the low-limit stat. Clean, and verify proper operation.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        },
+        {
+            "Step":11,
+            "Item":"Relief Dampers or Exhaust Fan",
+            "Description":"Check condition, setting, and operation of the relief dampers or power exhaust fan. Adjust and lubricate as necessary.",
+            "OK":false,
+            "N/A":false,
+            "Issues":null
+        }
+    ]
+}

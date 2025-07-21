@@ -152,7 +152,7 @@ export default function DataTableComponent() {
     <div className="p-6 w-full">
       <div className="card bg-base-100 shadow-xl">
         <div className="card-body">
-          <h2 className="card-title text-xl font-bold">Lista de Usuarios</h2>
+          {/* <h2 className="card-title text-xl font-bold">Lista de Usuarios</h2> */}
           <DataTable
             columns={columns}
             data={data}

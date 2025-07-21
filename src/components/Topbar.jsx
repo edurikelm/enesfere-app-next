@@ -21,7 +21,7 @@ export default function Topbar() {
                 />
               </svg>
             </label>
-            <h1 className="text-lg font-bold">Panel de Control</h1>
+            {/* <h1 className="text-lg font-bold">Panel de Control</h1> */}
           </div>
           <div className="flex items-center gap-3">
             <span className="text-sm font-medium">Eduardo</span>
